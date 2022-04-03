@@ -20,7 +20,7 @@ seems, that the class objects also store the relative path of the class definiti
 
 ### Data Writer
 
-1. Write Class Declarations to a separate py file (here *test_gen/logdef.py*).
+1. Write Class Declarations to a separate py file (here *generate_log/logdef.py*).
 2. Read the file and execute its content to have the declarations within the local scope.
 3. Dump the file content as first into the log file.
 4. Dump class objects into the log file.
